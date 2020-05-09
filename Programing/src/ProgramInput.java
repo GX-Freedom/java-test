@@ -9,7 +9,7 @@ import org.opentutorials.iot.Security;
 public class ProgramInput {
 
 	public static void main(String[] args) {
-		
+		 
 //		String id = JOptionPane.showInputDialog("new ID");
 		String id = args[0];
 		String bright = JOptionPane.showInputDialog("bright Level... to only number");
